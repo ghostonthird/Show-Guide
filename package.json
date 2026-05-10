@@ -1,0 +1,12 @@
+{
+  "name": "vanc-shows-scraper",
+  "version": "1.0.0",
+  "description": "VA/NC concert scraper for GitHub Actions",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper/scrape.mjs"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}

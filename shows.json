@@ -1,40 +1,7 @@
 {
-  "lastUpdated": "2026-06-11T10:04:41.447Z",
-  "count": 1546,
+  "lastUpdated": "2026-06-12T09:56:46.165Z",
+  "count": 1543,
   "shows": [
-    {
-      "name": "Spacey Jane",
-      "date": "2001-06-11",
-      "venue": "The Orange Peel",
-      "city": "Asheville",
-      "state": "NC",
-      "ticketUrl": "https://www.etix.com/ticket/p/87608880/spacey-jane-asheville-the-orange-peel?cobrand=1161&partner_id=100",
-      "source": "orange-peel-avl",
-      "genre": null,
-      "price": null
-    },
-    {
-      "name": "Matt Heckler with Julian Sikes",
-      "date": "2001-06-11",
-      "venue": "Local 506",
-      "city": "Chapel Hill",
-      "state": "NC",
-      "ticketUrl": "https://www.etix.com/ticket/p/72878061/matt-heckler-with-julian-sikes-chapel-hill-local-506?partner_id=100",
-      "source": "local-506",
-      "genre": null,
-      "price": null
-    },
-    {
-      "name": "The Art of Paul",
-      "date": "2001-06-11",
-      "venue": "The Grey Eagle",
-      "city": "Asheville",
-      "state": "NC",
-      "ticketUrl": "https://www.etix.com/ticket/p/97528456/the-art-of-paul-asheville-grey-eagle-music-hall-special-events?partner_id=100",
-      "source": "grey-eagle-avl",
-      "genre": null,
-      "price": null
-    },
     {
       "name": "Modest Mouse",
       "date": "2001-06-12",
@@ -278,12 +245,12 @@
       "price": null
     },
     {
-      "name": "Total Chaos with Noogy",
+      "name": "Total Chaos with Noogy and Machinegun Earl",
       "date": "2001-06-18",
       "venue": "Local 506",
       "city": "Chapel Hill",
       "state": "NC",
-      "ticketUrl": "https://www.etix.com/ticket/p/48225348/total-chaos-with-noogy-chapel-hill-local-506?partner_id=100",
+      "ticketUrl": "https://www.etix.com/ticket/p/48225348/total-chaos-with-noogy-and-machinegun-earl-chapel-hill-local-506?partner_id=100",
       "source": "local-506",
       "genre": null,
       "price": null
@@ -1026,6 +993,17 @@
       "price": null
     },
     {
+      "name": "Ahn with Galvenukles, Desidirium, and Orgone Energy Accumulator",
+      "date": "2001-07-17",
+      "venue": "Local 506",
+      "city": "Chapel Hill",
+      "state": "NC",
+      "ticketUrl": "https://www.etix.com/ticket/p/49418475/ahn-with-galvenuklesdesidiriumand-orgone-energy-accumulator-chapel-hill-local-506?partner_id=100",
+      "source": "local-506",
+      "genre": null,
+      "price": null
+    },
+    {
       "name": "Emerson Woolf & the Wishbones",
       "date": "2001-07-17",
       "venue": "The Grey Eagle",
@@ -1099,6 +1077,17 @@
       "state": "NC",
       "ticketUrl": "https://www.etix.com/ticket/p/37230395/buck-meek-asheville-grey-eagle-music-hall?partner_id=100",
       "source": "grey-eagle-avl",
+      "genre": null,
+      "price": null
+    },
+    {
+      "name": "Dreamforia presents Progressive House Forever",
+      "date": "2001-07-18",
+      "venue": "Lincoln Theatre",
+      "city": "Raleigh",
+      "state": "NC",
+      "ticketUrl": "https://www.etix.com/ticket/p/30798946/dreamforia-presents-progressive-house-forever-raleigh-lincoln-theatre?partner_id=100",
+      "source": "lincoln-theatre-raleigh",
       "genre": null,
       "price": null
     },
@@ -1550,6 +1539,17 @@
       "state": "NC",
       "ticketUrl": "https://lincolntheatre.com/event/the-jazz-room-a-journey-to-the-heart-of-new-orleans-2/",
       "source": "lincoln-theatre-raleigh",
+      "genre": null,
+      "price": null
+    },
+    {
+      "name": "WonkyWilla & SoDown",
+      "date": "2001-08-15",
+      "venue": "The Orange Peel",
+      "city": "Asheville",
+      "state": "NC",
+      "ticketUrl": "https://www.etix.com/ticket/p/74582426/wonkywilla-sodown-asheville-the-orange-peel?cobrand=1161&partner_id=100",
+      "source": "orange-peel-avl",
       "genre": null,
       "price": null
     },
@@ -2753,6 +2753,17 @@
       "price": null
     },
     {
+      "name": "Jesse Roper",
+      "date": "2001-11-12",
+      "venue": "The Grey Eagle",
+      "city": "Asheville",
+      "state": "NC",
+      "ticketUrl": "https://www.etix.com/ticket/p/84192054/jesse-roper-asheville-grey-eagle-music-hall?partner_id=100",
+      "source": "grey-eagle-avl",
+      "genre": null,
+      "price": null
+    },
+    {
       "name": "An Evening With: Shadowgrass",
       "date": "2001-11-13",
       "venue": "Lincoln Theatre",
@@ -2904,366 +2915,6 @@
       "ticketUrl": "https://www.etix.com/ticket/p/90895241/burlesque-brunch-asheville-grey-eagle-music-hall-special-events?partner_id=100",
       "source": "grey-eagle-avl",
       "genre": null,
-      "price": null
-    },
-    {
-      "name": "AN AMERICAN IN PARIS - 7pm - Classic Movie Nights!",
-      "date": "2026-06-11",
-      "time": "19:00:00",
-      "venue": "American Theatre",
-      "city": "Hampton",
-      "state": "VA",
-      "ticketUrl": "https://www.ticketmaster.com/an-american-in-paris-7pm-classic-hampton-virginia-06-11-2026/event/0100636BEB72F6EB",
-      "source": "ticketmaster",
-      "genre": "Music",
-      "price": null
-    },
-    {
-      "name": "Celtic Throne II",
-      "date": "2026-06-11",
-      "time": "19:00:00",
-      "venue": "Sandler Center For The Performing Arts",
-      "city": "Virginia Beach",
-      "state": "VA",
-      "ticketUrl": "https://www.ticketmaster.com/celtic-throne-ii-virginia-beach-virginia-06-11-2026/event/01006487C7CF37BD",
-      "source": "ticketmaster",
-      "genre": "Classical",
-      "price": null
-    },
-    {
-      "name": "JAZZ FUNK SOUL featuring Everette Harp, Jeff Lorber, Paul Jackson, Jr.",
-      "date": "2026-06-11",
-      "time": "19:30:00",
-      "venue": "Birchmere",
-      "city": "Alexandria",
-      "state": "VA",
-      "ticketUrl": "https://www.ticketmaster.com/jazz-funk-soul-featuring-everette-harp-alexandria-virginia-06-11-2026/event/15006457A9A6A559",
-      "source": "ticketmaster",
-      "genre": "Jazz",
-      "price": null
-    },
-    {
-      "name": "Cowboy Junkies",
-      "date": "2026-06-11",
-      "time": "19:30:00",
-      "venue": "The National",
-      "city": "Richmond",
-      "state": "VA",
-      "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7-334",
-      "source": "ticketmaster, seatgeek",
-      "genre": "Country",
-      "price": null
-    },
-    {
-      "name": "Lauren Daigle",
-      "date": "2026-06-11",
-      "time": "20:00:00",
-      "venue": "Wolf Trap Filene Center",
-      "city": "Vienna",
-      "state": "VA",
-      "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7-tbs",
-      "source": "ticketmaster, seatgeek",
-      "genre": "Other",
-      "price": null
-    },
-    {
-      "name": "Nick Jonas | Official Caesars Ticket + Hotel Packages",
-      "date": "2026-06-11",
-      "time": "20:00:00",
-      "venue": "The Pantheon at Caesars Virginia",
-      "city": "Danville",
-      "state": "VA",
-      "ticketUrl": "https://travel.ticketmaster.com/en-US/package-forward/90063075?_uid=01e06df2-8b31-4246-b25c-04d738f89509&utm_source=Caesars_TM&utm_medium=TM_ADP_NickJonas0611",
-      "source": "ticketmaster",
-      "genre": "Rock",
-      "price": null
-    },
-    {
-      "name": "Nick Jonas: A Night with Nick Tour",
-      "date": "2026-06-11",
-      "time": "20:00:00",
-      "venue": "The Pantheon at Caesars Virginia",
-      "city": "Danville",
-      "state": "VA",
-      "ticketUrl": "https://www.ticketmaster.com/nick-jonas-a-night-with-nick-danville-virginia-06-11-2026/event/01006494B884270C",
-      "source": "ticketmaster",
-      "genre": "Rock",
-      "price": null
-    },
-    {
-      "name": "Wyatt Flores",
-      "date": "2026-06-11",
-      "time": "18:00:00",
-      "venue": "Greenfield Lake Amphitheater",
-      "city": "Wilmington",
-      "state": "NC",
-      "ticketUrl": "https://www.ticketmaster.com/wyatt-flores-wilmington-north-carolina-06-11-2026/event/2D006470E20B8E70",
-      "source": "ticketmaster",
-      "genre": "Country",
-      "price": null
-    },
-    {
-      "name": "Sleeping With Sirens",
-      "date": "2026-06-11",
-      "time": "19:00:00",
-      "venue": "The Ritz",
-      "city": "Raleigh",
-      "state": "NC",
-      "ticketUrl": "https://www.ticketmaster.com/sleeping-with-sirens-raleigh-north-carolina-06-11-2026/event/2D006475DBA941C2",
-      "source": "ticketmaster",
-      "genre": "Rock",
-      "price": null
-    },
-    {
-      "name": "Ladies Night Out - Ashanti & Friends",
-      "date": "2026-06-11",
-      "time": "19:30:00",
-      "venue": "Martin Marietta Center for the Performing Arts",
-      "city": "Raleigh",
-      "state": "NC",
-      "ticketUrl": "https://www.ticketmaster.com/ladies-night-out-ashanti-friends-raleigh-north-carolina-06-11-2026/event/2D00649AC1A07B9C",
-      "source": "ticketmaster",
-      "genre": "R&B",
-      "price": null
-    },
-    {
-      "name": "Spacey Jane",
-      "date": "2026-06-11",
-      "time": "20:00:00",
-      "venue": "The Orange Peel",
-      "city": "Asheville",
-      "state": "NC",
-      "ticketUrl": "https://www.etix.com/ticket/p/87608880/spacey-jane-asheville-the-orange-peel",
-      "source": "ticketmaster",
-      "genre": "Rock",
-      "price": null
-    },
-    {
-      "name": "Freddie Gibbs: The Last Rabbit Tour - North America",
-      "date": "2026-06-11",
-      "time": "20:00:00",
-      "venue": "The Fillmore Charlotte",
-      "city": "Charlotte",
-      "state": "NC",
-      "ticketUrl": "https://www.ticketmaster.com/freddie-gibbs-the-last-rabbit-tour-charlotte-north-carolina-06-11-2026/event/2D00643EA301D4B3",
-      "source": "ticketmaster",
-      "genre": "Hip-Hop/Rap",
-      "price": null
-    },
-    {
-      "name": "GRAHAM - The MOODSWINGS Tour",
-      "date": "2026-06-11",
-      "time": "20:00:00",
-      "venue": "Neighborhood Theatre Tap Room",
-      "city": "Charlotte",
-      "state": "NC",
-      "ticketUrl": "https://www.ticketmaster.com/graham-the-moodswings-tour-charlotte-north-carolina-06-11-2026/event/2D006462D24E36B5",
-      "source": "ticketmaster",
-      "genre": "Pop",
-      "price": null
-    },
-    {
-      "name": "Upon A Burning Body",
-      "date": "2026-06-11",
-      "time": "19:00",
-      "venue": "The Broadberry - Richmond",
-      "city": "Richmond",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/upon-a-burning-body-tickets/richmond-virginia-the-broadberry-richmond-2026-06-11-7-pm/concert/18230309",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Armor For Sleep",
-      "date": "2026-06-11",
-      "time": "19:00",
-      "venue": "Canal Club Richmond",
-      "city": "Richmond",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/armor-for-sleep-tickets/richmond-virginia-canal-club-richmond-2026-06-11-7-pm/concert/18229908",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Greg Mendez with Scarlet Rae",
-      "date": "2026-06-11",
-      "time": "19:30",
-      "venue": "Richmond Music Hall",
-      "city": "Richmond",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/greg-mendez-tickets/richmond-virginia-richmond-music-hall-1-2026-06-11-7-30-pm/concert/18105132",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Everette Harp with Jeff Lorber",
-      "date": "2026-06-11",
-      "time": "19:30",
-      "venue": "Birchmere Music Hall",
-      "city": "Alexandria",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/everette-harp-tickets/alexandria-virginia-birchmere-music-hall-2026-06-11-7-30-pm/concert/18091444",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Corey Smith",
-      "date": "2026-06-11",
-      "time": "18:00",
-      "venue": "Bowstring Pizza and Brewyard - Raleigh",
-      "city": "Raleigh",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/corey-smith-tickets/raleigh-north-carolina-bowstring-pizza-and-brewyard-2026-06-11-6-pm/concert/18233976",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Sleeping With Sirens with Haunt",
-      "date": "2026-06-11",
-      "time": "19:00",
-      "venue": "The Ritz - Raleigh",
-      "city": "Raleigh",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/sleeping-with-sirens-tickets/raleigh-north-carolina-the-ritz-raleigh-2026-06-11-7-pm/concert/18141349",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Ashanti",
-      "date": "2026-06-11",
-      "time": "19:30",
-      "venue": "Martin Marietta Center for the Performing Arts - Memorial Auditorium",
-      "city": "Raleigh",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/ashanti-tickets/raleigh-north-carolina-martin-marietta-center-for-the-performing-arts-memorial-auditorium-2026-06-11-7-30-pm/concert/18209531",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "BALTHVS",
-      "date": "2026-06-11",
-      "time": "20:00",
-      "venue": "Cat's Cradle - Carrboro",
-      "city": "Carrboro",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/balthvs-tickets/carrboro-north-carolina-cat-s-cradle-carrboro-2026-06-11-8-pm/concert/18233092",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Spyro Gyra",
-      "date": "2026-06-11",
-      "time": "18:00",
-      "venue": "Middle C Jazz",
-      "city": "Charlotte",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/spyro-gyra-tickets/charlotte-north-carolina-middle-c-jazz-2026-06-11-6-pm/concert/18211517",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "GRAHAM",
-      "date": "2026-06-11",
-      "time": "20:00",
-      "venue": "Neighborhood Theatre",
-      "city": "Charlotte",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/graham-tickets/charlotte-north-carolina-neighborhood-theatre-2026-06-11-8-pm/concert/18107283",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Old Mervs (18+)",
-      "date": "2026-06-11",
-      "time": "20:00",
-      "venue": "Amos' Southend",
-      "city": "Charlotte",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/old-mervs-tickets/charlotte-north-carolina-amos-southend-2026-06-11-8-pm/concert/18211062",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Freddie Gibbs",
-      "date": "2026-06-11",
-      "time": "20:00",
-      "venue": "The Fillmore - Charlotte",
-      "city": "Charlotte",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/freddie-gibbs-tickets/charlotte-north-carolina-the-fillmore-charlotte-2026-06-11-8-pm/concert/18048332",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Anders Osborne",
-      "date": "2026-06-11",
-      "time": "19:00",
-      "venue": "Sierra Nevada Brewing Co - Fletcher",
-      "city": "Fletcher",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/anders-osborne-tickets/fletcher-north-carolina-sierra-nevada-brewing-co-fletcher-2026-06-11-7-pm/concert/18279663",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Branford Marsalis",
-      "date": "2026-06-11",
-      "time": "19:30",
-      "venue": "Whittington-Pfohl Auditorium",
-      "city": "Brevard",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/branford-marsalis-tickets/brevard-north-carolina-whittington-pfohl-auditorium-2026-06-11-7-30-pm/concert/18210979",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Spacey Jane (18+)",
-      "date": "2026-06-11",
-      "time": "20:00",
-      "venue": "The Orange Peel",
-      "city": "Asheville",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/spacey-jane-tickets/asheville-north-carolina-the-orange-peel-2026-06-11-8-pm/concert/18199020",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Mishka",
-      "date": "2026-06-11",
-      "time": "20:00",
-      "venue": "Third Room LLC",
-      "city": "Asheville",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/mishka-tickets/asheville-north-carolina-third-room-llc-2026-06-11-8-pm/concert/18211590",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "J Roddy Walston And The Business",
-      "date": "2026-06-11",
-      "time": "20:00",
-      "venue": "Revival - Asheville",
-      "city": "Asheville",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/j-roddy-walston-tickets/asheville-north-carolina-revival-asheville-2026-06-11-8-pm/concert/18211620",
-      "source": "seatgeek",
-      "genre": "concert",
       "price": null
     },
     {
@@ -3495,18 +3146,6 @@
       "price": null
     },
     {
-      "name": "Jazz In The Park",
-      "date": "2026-06-12",
-      "time": "19:00",
-      "venue": "Virginia Credit Union Stadium",
-      "city": "Fredericksburg",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/jazz-in-the-park-tickets/fredericksburg-virginia-virginia-credit-union-stadium-2026-06-12-7-pm/concert/18230487",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Bad Cop Bad Cop",
       "date": "2026-06-12",
       "time": "19:00",
@@ -3514,6 +3153,18 @@
       "city": "Richmond",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/bad-cop-bad-cop-tickets/richmond-virginia-capital-ale-house-2026-06-12-7-pm/concert/18230036",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Jazz In The Park",
+      "date": "2026-06-12",
+      "time": "19:00",
+      "venue": "Virginia Credit Union Stadium",
+      "city": "Fredericksburg",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/jazz-in-the-park-tickets/fredericksburg-virginia-virginia-credit-union-stadium-2026-06-12-7-pm/concert/18230487",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -3591,18 +3242,6 @@
       "price": null
     },
     {
-      "name": "Mamma Mania - ABBA Tribute",
-      "date": "2026-06-12",
-      "time": "19:00",
-      "venue": "Stewart Theatre",
-      "city": "Raleigh",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/mamma-mania-nyc-s-premier-abba-tribute-tickets/raleigh-north-carolina-stewart-theatre-2026-06-12-7-pm/concert/18233277",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Jess Ray",
       "date": "2026-06-12",
       "time": "19:00",
@@ -3610,6 +3249,18 @@
       "city": "Raleigh",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/jess-ray-tickets/raleigh-north-carolina-lincoln-theatre-raleigh-2026-06-12-7-pm/concert/18232902",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Mamma Mania - ABBA Tribute",
+      "date": "2026-06-12",
+      "time": "19:00",
+      "venue": "Stewart Theatre",
+      "city": "Raleigh",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/mamma-mania-nyc-s-premier-abba-tribute-tickets/raleigh-north-carolina-stewart-theatre-2026-06-12-7-pm/concert/18233277",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -3651,18 +3302,6 @@
       "price": null
     },
     {
-      "name": "The Last Dinner Party with Automatic",
-      "date": "2026-06-12",
-      "time": "20:00",
-      "venue": "The Fillmore - Charlotte",
-      "city": "Charlotte",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/the-last-dinner-party-tickets/charlotte-north-carolina-the-fillmore-charlotte-2026-06-12-8-pm/concert/17838436",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Susto",
       "date": "2026-06-12",
       "time": "20:00",
@@ -3670,6 +3309,18 @@
       "city": "Charlotte",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/susto-tickets/charlotte-north-carolina-neighborhood-theatre-2026-06-12-8-pm/concert/18126987",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "The Last Dinner Party with Automatic",
+      "date": "2026-06-12",
+      "time": "20:00",
+      "venue": "The Fillmore - Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/the-last-dinner-party-tickets/charlotte-north-carolina-the-fillmore-charlotte-2026-06-12-8-pm/concert/17838436",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -4083,18 +3734,6 @@
       "price": null
     },
     {
-      "name": "Dead Calm",
-      "date": "2026-06-13",
-      "time": "20:00",
-      "venue": "Motorco Music Hall",
-      "city": "Durham",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/dead-calm-tickets/durham-north-carolina-motorco-music-hall-2026-06-13-8-pm/concert/18233378",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Dave Hollister with Case",
       "date": "2026-06-13",
       "time": "20:00",
@@ -4102,6 +3741,18 @@
       "city": "Raleigh",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/dave-hollister-tickets/raleigh-north-carolina-martin-marietta-center-for-the-performing-arts-memorial-auditorium-2026-06-13-8-pm/concert/18195987",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Dead Calm",
+      "date": "2026-06-13",
+      "time": "20:00",
+      "venue": "Motorco Music Hall",
+      "city": "Durham",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/dead-calm-tickets/durham-north-carolina-motorco-music-hall-2026-06-13-8-pm/concert/18233378",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -4923,18 +4574,6 @@
       "price": null
     },
     {
-      "name": "The Beths",
-      "date": "2026-06-17",
-      "time": "20:00",
-      "venue": "Cat's Cradle - Carrboro",
-      "city": "Carrboro",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/the-beths-tickets/carrboro-north-carolina-cat-s-cradle-carrboro-2026-06-17-8-pm/concert/18233093",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Leanna Firestone",
       "date": "2026-06-17",
       "time": "20:00",
@@ -4947,13 +4586,13 @@
       "price": null
     },
     {
-      "name": "Jinjer with Crystal Lake and Entheos",
+      "name": "The Beths",
       "date": "2026-06-17",
-      "time": "19:00",
-      "venue": "The Fillmore - Charlotte",
-      "city": "Charlotte",
+      "time": "20:00",
+      "venue": "Cat's Cradle - Carrboro",
+      "city": "Carrboro",
       "state": "NC",
-      "ticketUrl": "https://seatgeek.com/jinjer-tickets/charlotte-north-carolina-the-fillmore-charlotte-2026-06-17-7-pm/concert/18128904",
+      "ticketUrl": "https://seatgeek.com/the-beths-tickets/carrboro-north-carolina-cat-s-cradle-carrboro-2026-06-17-8-pm/concert/18233093",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -4966,6 +4605,18 @@
       "city": "Charlotte",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/forrest-frank-tickets/charlotte-north-carolina-spectrum-center-charlotte-2026-06-17-7-pm/concert/17947944",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Jinjer with Crystal Lake and Entheos",
+      "date": "2026-06-17",
+      "time": "19:00",
+      "venue": "The Fillmore - Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/jinjer-tickets/charlotte-north-carolina-the-fillmore-charlotte-2026-06-17-7-pm/concert/18128904",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -5235,18 +4886,6 @@
       "price": null
     },
     {
-      "name": "Towne Bank Jazz Series",
-      "date": "2026-06-18",
-      "time": "19:30",
-      "venue": "Sandler Center for the Performing Arts",
-      "city": "Virginia Beach",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/towne-bank-jazz-series-tickets/virginia-beach-virginia-sandler-center-for-the-performing-arts-2026-06-18-7-30-pm/concert/18111811",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Gigi Perez",
       "date": "2026-06-18",
       "time": "19:30",
@@ -5254,6 +4893,18 @@
       "city": "Norfolk",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/gigi-perez-tickets/norfolk-virginia-the-norva-norfolk-2026-06-18-7-30-pm/concert/18229994",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Towne Bank Jazz Series",
+      "date": "2026-06-18",
+      "time": "19:30",
+      "venue": "Sandler Center for the Performing Arts",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/towne-bank-jazz-series-tickets/virginia-beach-virginia-sandler-center-for-the-performing-arts-2026-06-18-7-30-pm/concert/18111811",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -5283,13 +4934,13 @@
       "price": null
     },
     {
-      "name": "Blacktop Mojo",
+      "name": "Jill Scott",
       "date": "2026-06-18",
       "time": "20:00",
-      "venue": "Lincoln Theatre Raleigh",
-      "city": "Raleigh",
+      "venue": "DPAC - Durham Performing Arts Center",
+      "city": "Durham",
       "state": "NC",
-      "ticketUrl": "https://seatgeek.com/blacktop-mojo-tickets/raleigh-north-carolina-lincoln-theatre-raleigh-2026-06-18-8-pm/concert/18232901",
+      "ticketUrl": "https://seatgeek.com/jill-scott-tickets/durham-north-carolina-dpac-durham-performing-arts-center-2026-06-18-8-pm/concert/18114123",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -5307,13 +4958,25 @@
       "price": null
     },
     {
-      "name": "Jill Scott",
+      "name": "Blacktop Mojo",
       "date": "2026-06-18",
       "time": "20:00",
-      "venue": "DPAC - Durham Performing Arts Center",
-      "city": "Durham",
+      "venue": "Lincoln Theatre Raleigh",
+      "city": "Raleigh",
       "state": "NC",
-      "ticketUrl": "https://seatgeek.com/jill-scott-tickets/durham-north-carolina-dpac-durham-performing-arts-center-2026-06-18-8-pm/concert/18114123",
+      "ticketUrl": "https://seatgeek.com/blacktop-mojo-tickets/raleigh-north-carolina-lincoln-theatre-raleigh-2026-06-18-8-pm/concert/18232901",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Wale with Smino",
+      "date": "2026-06-18",
+      "time": "19:00",
+      "venue": "Skyla Credit Union Amphitheatre",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/wale-tickets/charlotte-north-carolina-skyla-credit-union-amphitheatre-2026-06-18-7-pm/concert/18068350",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -5343,18 +5006,6 @@
       "price": null
     },
     {
-      "name": "SEU Worship",
-      "date": "2026-06-18",
-      "time": "19:00",
-      "venue": "Lake Forest Church",
-      "city": "Huntersville",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/seu-worship-tickets/huntersville-north-carolina-lake-forest-church-2026-06-18-7-pm/concert/18211436",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Julia Cole",
       "date": "2026-06-18",
       "time": "19:00",
@@ -5367,13 +5018,13 @@
       "price": null
     },
     {
-      "name": "Wale with Smino",
+      "name": "SEU Worship",
       "date": "2026-06-18",
       "time": "19:00",
-      "venue": "Skyla Credit Union Amphitheatre",
-      "city": "Charlotte",
+      "venue": "Lake Forest Church",
+      "city": "Huntersville",
       "state": "NC",
-      "ticketUrl": "https://seatgeek.com/wale-tickets/charlotte-north-carolina-skyla-credit-union-amphitheatre-2026-06-18-7-pm/concert/18068350",
+      "ticketUrl": "https://seatgeek.com/seu-worship-tickets/huntersville-north-carolina-lake-forest-church-2026-06-18-7-pm/concert/18211436",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -5727,18 +5378,6 @@
       "price": null
     },
     {
-      "name": "Wale with Smino",
-      "date": "2026-06-19",
-      "time": "19:00",
-      "venue": "The Dome by Rutter Mills",
-      "city": "Virginia Beach",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/wale-tickets/virginia-beach-virginia-the-dome-13-2026-06-19-7-pm/concert/18068355",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Julia Cole",
       "date": "2026-06-19",
       "time": "19:00",
@@ -5746,6 +5385,18 @@
       "city": "Norfolk",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/julia-cole-tickets/norfolk-virginia-the-annex-nfk-2026-06-19-7-pm/concert/18230514",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Wale with Smino",
+      "date": "2026-06-19",
+      "time": "19:00",
+      "venue": "The Dome by Rutter Mills",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/wale-tickets/virginia-beach-virginia-the-dome-13-2026-06-19-7-pm/concert/18068355",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -5787,18 +5438,6 @@
       "price": null
     },
     {
-      "name": "Max Richter",
-      "date": "2026-06-19",
-      "time": "20:00",
-      "venue": "DPAC - Durham Performing Arts Center",
-      "city": "Durham",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/max-richter-tickets/durham-north-carolina-dpac-durham-performing-arts-center-2026-06-19-8-pm/concert/18089712",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Robyn Hitchcock",
       "date": "2026-06-19",
       "time": "20:00",
@@ -5806,6 +5445,18 @@
       "city": "Carrboro",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/robyn-hitchcock-tickets/carrboro-north-carolina-cat-s-cradle-carrboro-2026-06-19-8-pm/concert/18233089",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Max Richter",
+      "date": "2026-06-19",
+      "time": "20:00",
+      "venue": "DPAC - Durham Performing Arts Center",
+      "city": "Durham",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/max-richter-tickets/durham-north-carolina-dpac-durham-performing-arts-center-2026-06-19-8-pm/concert/18089712",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -5859,18 +5510,6 @@
       "price": null
     },
     {
-      "name": "Squirrel Nut Zippers",
-      "date": "2026-06-19",
-      "time": "20:00",
-      "venue": "The Grey Eagle - Asheville",
-      "city": "Asheville",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/squirrel-nut-zippers-tickets/asheville-north-carolina-the-grey-eagle-2026-06-19-8-pm/concert/18277867",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "LAZR LUVR",
       "date": "2026-06-19",
       "time": "20:00",
@@ -5878,6 +5517,18 @@
       "city": "Asheville",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/lazr-luvr-tickets/asheville-north-carolina-the-orange-peel-2026-06-19-8-pm/concert/18277391",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Squirrel Nut Zippers",
+      "date": "2026-06-19",
+      "time": "20:00",
+      "venue": "The Grey Eagle - Asheville",
+      "city": "Asheville",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/squirrel-nut-zippers-tickets/asheville-north-carolina-the-grey-eagle-2026-06-19-8-pm/concert/18277867",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -6207,18 +5858,6 @@
       "price": null
     },
     {
-      "name": "Anime Night",
-      "date": "2026-06-20",
-      "time": "19:00",
-      "venue": "The Annex NFK",
-      "city": "Norfolk",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/anime-night-tickets/norfolk-virginia-the-annex-nfk-2026-06-20-7-pm/concert/18230515",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Pradabagshawty",
       "date": "2026-06-20",
       "time": "19:00",
@@ -6226,6 +5865,18 @@
       "city": "Portsmouth",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/pradabagshawty-tickets/portsmouth-virginia-ukiyo-va-2026-06-20-7-pm/concert/18230521",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Anime Night",
+      "date": "2026-06-20",
+      "time": "19:00",
+      "venue": "The Annex NFK",
+      "city": "Norfolk",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/anime-night-tickets/norfolk-virginia-the-annex-nfk-2026-06-20-7-pm/concert/18230515",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -6339,6 +5990,18 @@
       "price": null
     },
     {
+      "name": "Jill Scott",
+      "date": "2026-06-20",
+      "time": "20:00",
+      "venue": "DPAC - Durham Performing Arts Center",
+      "city": "Durham",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/jill-scott-tickets/durham-north-carolina-dpac-durham-performing-arts-center-2026-06-20-8-pm/concert/18119089",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
       "name": "Left Cross",
       "date": "2026-06-20",
       "time": "20:00",
@@ -6363,18 +6026,6 @@
       "price": null
     },
     {
-      "name": "Jill Scott",
-      "date": "2026-06-20",
-      "time": "20:00",
-      "venue": "DPAC - Durham Performing Arts Center",
-      "city": "Durham",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/jill-scott-tickets/durham-north-carolina-dpac-durham-performing-arts-center-2026-06-20-8-pm/concert/18119089",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "LF System",
       "date": "2026-06-20",
       "time": "18:00",
@@ -6382,18 +6033,6 @@
       "city": "Charlotte",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/lf-system-tickets/charlotte-north-carolina-the-music-yard-at-southbound-2026-06-20-6-pm/concert/18280118",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Marion Meadows",
-      "date": "2026-06-20",
-      "time": "18:00",
-      "venue": "Middle C Jazz",
-      "city": "Charlotte",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/marion-meadows-tickets/charlotte-north-carolina-middle-c-jazz-2026-06-20-6-pm/concert/18280242",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -6411,13 +6050,13 @@
       "price": null
     },
     {
-      "name": "Emo Night Karaoke (Rescheduled from 1/31/26)",
+      "name": "Marion Meadows",
       "date": "2026-06-20",
-      "time": "19:00",
-      "venue": "The Underground at The Fillmore - Charlotte",
+      "time": "18:00",
+      "venue": "Middle C Jazz",
       "city": "Charlotte",
       "state": "NC",
-      "ticketUrl": "https://seatgeek.com/emo-night-karaoke-tickets/charlotte-north-carolina-the-underground-at-the-fillmore-charlotte-2026-06-20-7-pm/concert/17772258",
+      "ticketUrl": "https://seatgeek.com/marion-meadows-tickets/charlotte-north-carolina-middle-c-jazz-2026-06-20-6-pm/concert/18280242",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -6430,6 +6069,18 @@
       "city": "Charlotte",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/the-human-league-tickets/charlotte-north-carolina-the-amp-ballantyne-2026-06-20-7-pm/concert/18022388",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Emo Night Karaoke (Rescheduled from 1/31/26)",
+      "date": "2026-06-20",
+      "time": "19:00",
+      "venue": "The Underground at The Fillmore - Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/emo-night-karaoke-tickets/charlotte-north-carolina-the-underground-at-the-fillmore-charlotte-2026-06-20-7-pm/concert/17772258",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -6495,18 +6146,6 @@
       "price": null
     },
     {
-      "name": "Maddy O'Neal",
-      "date": "2026-06-20",
-      "time": "18:00",
-      "venue": "Sly Grog Lounge",
-      "city": "Asheville",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/maddy-o-neal-tickets/asheville-north-carolina-sly-grog-lounge-2026-06-20-6-pm/concert/17940010",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Big Something",
       "date": "2026-06-20",
       "time": "18:00",
@@ -6514,6 +6153,18 @@
       "city": "Black Mountain",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/big-something-tickets/black-mountain-north-carolina-pisgah-brewing-company-2026-06-20-6-pm/concert/18278706",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Maddy O'Neal",
+      "date": "2026-06-20",
+      "time": "18:00",
+      "venue": "Sly Grog Lounge",
+      "city": "Asheville",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/maddy-o-neal-tickets/asheville-north-carolina-sly-grog-lounge-2026-06-20-6-pm/concert/17940010",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -6699,18 +6350,6 @@
       "price": null
     },
     {
-      "name": "BabyFace Ray with 42 Dugg",
-      "date": "2026-06-21",
-      "time": "20:00",
-      "venue": "The NorVa - Norfolk",
-      "city": "Norfolk",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/babyface-ray-tickets/norfolk-virginia-the-norva-norfolk-2026-06-21-8-pm/concert/18186465",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "42 Dugg",
       "date": "2026-06-21",
       "time": "20:00",
@@ -6718,6 +6357,18 @@
       "city": "Norfolk",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/42-dugg-tickets/norfolk-virginia-the-norva-norfolk-2026-06-21-8-pm/concert/18229995",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "BabyFace Ray with 42 Dugg",
+      "date": "2026-06-21",
+      "time": "20:00",
+      "venue": "The NorVa - Norfolk",
+      "city": "Norfolk",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/babyface-ray-tickets/norfolk-virginia-the-norva-norfolk-2026-06-21-8-pm/concert/18186465",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -6747,18 +6398,6 @@
       "price": null
     },
     {
-      "name": "Therapy Gecko",
-      "date": "2026-06-21",
-      "time": "18:00",
-      "venue": "Comedy Zone Charlotte",
-      "city": "Charlotte",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/therapy-gecko-tickets/charlotte-north-carolina-comedy-zone-charlotte-2026-06-21-6-pm/concert/18278865",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Marion Meadows",
       "date": "2026-06-21",
       "time": "18:00",
@@ -6766,6 +6405,18 @@
       "city": "Charlotte",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/marion-meadows-tickets/charlotte-north-carolina-middle-c-jazz-2026-06-21-6-pm/concert/18280247",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Therapy Gecko",
+      "date": "2026-06-21",
+      "time": "18:00",
+      "venue": "Comedy Zone Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/therapy-gecko-tickets/charlotte-north-carolina-comedy-zone-charlotte-2026-06-21-6-pm/concert/18278865",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -6819,18 +6470,6 @@
       "price": null
     },
     {
-      "name": "Widowspeak",
-      "date": "2026-06-22",
-      "time": "20:00",
-      "venue": "The Pour House Music Hall",
-      "city": "Raleigh",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/widowspeak-tickets/raleigh-north-carolina-the-pour-house-music-hall-2026-06-22-8-pm/concert/18233269",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Rostam",
       "date": "2026-06-22",
       "time": "20:00",
@@ -6838,6 +6477,18 @@
       "city": "Saxapahaw",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/rostam-tickets/saxapahaw-north-carolina-haw-river-ballroom-2026-06-22-8-pm/concert/18116972",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Widowspeak",
+      "date": "2026-06-22",
+      "time": "20:00",
+      "venue": "The Pour House Music Hall",
+      "city": "Raleigh",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/widowspeak-tickets/raleigh-north-carolina-the-pour-house-music-hall-2026-06-22-8-pm/concert/18233269",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -6970,7 +6621,7 @@
       "city": "Alexandria",
       "state": "VA",
       "ticketUrl": "https://www.ticketmaster.com/amy-grant-alexandria-virginia-06-24-2026/event/15006488C704A9ED",
-      "source": "ticketmaster",
+      "source": "ticketmaster, seatgeek",
       "genre": "Rock",
       "price": null
     },
@@ -7042,6 +6693,18 @@
       "city": "Virginia Beach",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/fortunate-youth-tickets/virginia-beach-virginia-elevation-27-2026-06-24-8-pm/concert/18084298",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Wynonna Judd and Melissa Etheridge",
+      "date": "2026-06-24",
+      "time": "19:30",
+      "venue": "Filene Center at The Wolf Trap",
+      "city": "Vienna",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/melissa-etheridge-tickets/vienna-virginia-filene-center-at-the-wolf-trap-2026-06-24-7-30-pm/concert/18077136",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -7198,6 +6861,30 @@
       "city": "Richmond",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/babe-haven-tickets/richmond-virginia-canal-club-richmond-2026-06-25-8-pm/concert/18229918",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Stela Cole",
+      "date": "2026-06-25",
+      "time": "19:30",
+      "venue": "Birchmere Music Hall",
+      "city": "Alexandria",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/stela-cole-tickets/alexandria-virginia-birchmere-music-hall-2026-06-25-7-30-pm/concert/18105480",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "St. Vincent with the National Symphony Orchestra",
+      "date": "2026-06-25",
+      "time": "20:00",
+      "venue": "Filene Center at The Wolf Trap",
+      "city": "Vienna",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/st-vincent-tickets/vienna-virginia-filene-center-at-the-wolf-trap-2026-06-25-8-pm/concert/18085235",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -7683,18 +7370,6 @@
       "price": null
     },
     {
-      "name": "Alex Warren",
-      "date": "2026-06-26",
-      "time": "19:30",
-      "venue": "Spectrum Center - Charlotte",
-      "city": "Charlotte",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/alex-warren-tickets/charlotte-north-carolina-spectrum-center-charlotte-2026-06-26-7-30-pm/concert/17906992",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Adam Pascal",
       "date": "2026-06-26",
       "time": "19:30",
@@ -7702,6 +7377,18 @@
       "city": "Cornelius",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/adam-pascal-tickets/cornelius-north-carolina-cain-center-for-the-arts-2026-06-26-7-30-pm/concert/18268610",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Alex Warren",
+      "date": "2026-06-26",
+      "time": "19:30",
+      "venue": "Spectrum Center - Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/alex-warren-tickets/charlotte-north-carolina-spectrum-center-charlotte-2026-06-26-7-30-pm/concert/17906992",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -7959,18 +7646,6 @@
       "price": null
     },
     {
-      "name": "Por Vida",
-      "date": "2026-06-27",
-      "time": "19:00",
-      "venue": "Elevation 27",
-      "city": "Virginia Beach",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/por-vida-tickets/virginia-beach-virginia-elevation-27-2026-06-27-7-pm/concert/18230047",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Hampton Jazz Festival",
       "date": "2026-06-27",
       "time": "19:00",
@@ -7978,6 +7653,18 @@
       "city": "Hampton",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/hampton-jazz-festival-tickets/hampton-virginia-hampton-coliseum-2026-06-27-7-pm/music-festival/18154869",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Por Vida",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/por-vida-tickets/virginia-beach-virginia-elevation-27-2026-06-27-7-pm/concert/18230047",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -8038,18 +7725,6 @@
       "city": "Union Hall",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/legacy-motown-revue-tickets/union-hall-virginia-coves-amphitheater-2026-06-27-7-pm/concert/18230484",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
-      "name": "Justin Moore",
-      "date": "2026-06-27",
-      "time": "19:30",
-      "venue": "Salem Civic Center",
-      "city": "Salem",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/justin-moore-tickets/salem-virginia-salem-civic-center-2026-06-27-7-30-pm/concert/18154959",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -9663,18 +9338,6 @@
       "price": null
     },
     {
-      "name": "Ne-Yo and Akon",
-      "date": "2026-07-10",
-      "time": "20:00",
-      "venue": "Coastal Credit Union Music Park at Walnut Creek",
-      "city": "Raleigh",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/ne-yo-tickets/raleigh-north-carolina-coastal-credit-union-music-park-at-walnut-creek-2026-07-10-8-pm/concert/18034379",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Blackberry Smoke with Jason Newsted",
       "date": "2026-07-10",
       "time": "20:00",
@@ -9694,6 +9357,18 @@
       "city": "Raleigh",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/the-pretty-reckless-tickets/raleigh-north-carolina-the-ritz-raleigh-2026-07-10-8-pm/concert/18122609",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Ne-Yo and Akon",
+      "date": "2026-07-10",
+      "time": "20:00",
+      "venue": "Coastal Credit Union Music Park at Walnut Creek",
+      "city": "Raleigh",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/ne-yo-tickets/raleigh-north-carolina-coastal-credit-union-music-park-at-walnut-creek-2026-07-10-8-pm/concert/18034379",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -10131,18 +9806,6 @@
       "price": null
     },
     {
-      "name": "J. Cole",
-      "date": "2026-07-11",
-      "time": "20:00",
-      "venue": "Spectrum Center - Charlotte",
-      "city": "Charlotte",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/j-cole-tickets/charlotte-north-carolina-spectrum-center-charlotte-2026-07-11-8-pm/concert/18075434",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Blackberry Smoke with Jason Newsted",
       "date": "2026-07-11",
       "time": "20:00",
@@ -10155,13 +9818,13 @@
       "price": null
     },
     {
-      "name": "The Buena Vista Orchestra",
+      "name": "J. Cole",
       "date": "2026-07-11",
-      "time": "19:30",
-      "venue": "Whittington-Pfohl Auditorium",
-      "city": "Brevard",
+      "time": "20:00",
+      "venue": "Spectrum Center - Charlotte",
+      "city": "Charlotte",
       "state": "NC",
-      "ticketUrl": "https://seatgeek.com/the-buena-vista-orchestra-tickets/brevard-north-carolina-whittington-pfohl-auditorium-2026-07-11-7-30-pm/concert/18277621",
+      "ticketUrl": "https://seatgeek.com/j-cole-tickets/charlotte-north-carolina-spectrum-center-charlotte-2026-07-11-8-pm/concert/18075434",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -10522,7 +10185,7 @@
       "city": "Charlotte",
       "state": "NC",
       "ticketUrl": "https://www.ticketmaster.com/buffalo-traffic-jam-charlotte-north-carolina-07-14-2026/event/2D0064879BFBB996",
-      "source": "ticketmaster",
+      "source": "ticketmaster, seatgeek",
       "genre": "Folk",
       "price": null
     },
@@ -10582,6 +10245,30 @@
       "city": "Charlotte",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/train-tickets/charlotte-north-carolina-truliant-amphitheater-2026-07-14-6-45-pm/concert/17896992",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Silverstein and Story Of The Year with Origami Angel",
+      "date": "2026-07-14",
+      "time": "19:00",
+      "venue": "The Fillmore - Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/silverstein-tickets/charlotte-north-carolina-the-fillmore-charlotte-2026-07-14-7-pm/concert/18165125",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Megan Moroney",
+      "date": "2026-07-14",
+      "time": "19:00",
+      "venue": "Spectrum Center - Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/megan-moroney-tickets/charlotte-north-carolina-spectrum-center-charlotte-2026-07-14-7-pm/concert/17943653",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -10656,6 +10343,18 @@
       "ticketUrl": "https://www.etix.com/ticket/p/48068728/american-football-asheville-the-orange-peel",
       "source": "ticketmaster",
       "genre": "Rock",
+      "price": null
+    },
+    {
+      "name": "Freddie Gibbs: The Last Rabbit Tour - North America",
+      "date": "2026-07-15",
+      "time": "20:00:00",
+      "venue": "The Fillmore Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://www.ticketmaster.com/freddie-gibbs-the-last-rabbit-tour-charlotte-north-carolina-07-15-2026/event/2D00643EA301D4B3",
+      "source": "ticketmaster",
+      "genre": "Hip-Hop/Rap",
       "price": null
     },
     {
@@ -10870,6 +10569,18 @@
       "city": "Raleigh",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/train-tickets/raleigh-north-carolina-coastal-credit-union-music-park-at-walnut-creek-2026-07-16-6-45-pm/concert/17897259",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "The Coral Reefer Band",
+      "date": "2026-07-16",
+      "time": "19:30",
+      "venue": "Truliant Amphitheater",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/the-coral-reefer-band-tickets/charlotte-north-carolina-truliant-amphitheater-2026-07-16-7-30-pm/concert/18126387",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -11187,6 +10898,18 @@
       "price": null
     },
     {
+      "name": "Kendall Street Company",
+      "date": "2026-07-17",
+      "time": "23:30",
+      "venue": "The Pour House Music Hall",
+      "city": "Raleigh",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/kendall-street-company-tickets/raleigh-north-carolina-the-pour-house-music-hall-2026-07-17-11-30-pm/concert/18233275",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
       "name": "Keller Williams",
       "date": "2026-07-17",
       "time": "23:30",
@@ -11199,13 +10922,13 @@
       "price": null
     },
     {
-      "name": "Kendall Street Company",
+      "name": "Patti Austin",
       "date": "2026-07-17",
-      "time": "23:30",
-      "venue": "The Pour House Music Hall",
-      "city": "Raleigh",
+      "time": "18:00",
+      "venue": "Middle C Jazz",
+      "city": "Charlotte",
       "state": "NC",
-      "ticketUrl": "https://seatgeek.com/kendall-street-company-tickets/raleigh-north-carolina-the-pour-house-music-hall-2026-07-17-11-30-pm/concert/18233275",
+      "ticketUrl": "https://seatgeek.com/patti-austin-tickets/charlotte-north-carolina-middle-c-jazz-2026-07-17-6-pm/concert/18214593",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -11547,18 +11270,6 @@
       "price": null
     },
     {
-      "name": "Dikembe",
-      "date": "2026-07-18",
-      "time": "19:00",
-      "venue": "The Pinhook",
-      "city": "Durham",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/dikembe-tickets/durham-north-carolina-the-pinhook-2026-07-18-7-pm/concert/18233513",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "BossMan Dlow",
       "date": "2026-07-18",
       "time": "19:00",
@@ -11566,6 +11277,18 @@
       "city": "Raleigh",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/bossman-dlow-tickets/raleigh-north-carolina-the-ritz-raleigh-2026-07-18-7-pm/concert/18269596",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Dikembe",
+      "date": "2026-07-18",
+      "time": "19:00",
+      "venue": "The Pinhook",
+      "city": "Durham",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/dikembe-tickets/durham-north-carolina-the-pinhook-2026-07-18-7-pm/concert/18233513",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -11739,18 +11462,6 @@
       "price": null
     },
     {
-      "name": "Midnight North",
-      "date": "2026-07-19",
-      "time": "20:00",
-      "venue": "The Grey Eagle - Asheville",
-      "city": "Asheville",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/midnight-north-tickets/asheville-north-carolina-the-grey-eagle-2026-07-19-8-pm/concert/18277889",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Kurt Vile and the Violators",
       "date": "2026-07-19",
       "time": "20:00",
@@ -11758,6 +11469,18 @@
       "city": "Asheville",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/kurt-vile-tickets/asheville-north-carolina-the-orange-peel-2026-07-19-8-pm/concert/18165801",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Midnight North",
+      "date": "2026-07-19",
+      "time": "20:00",
+      "venue": "The Grey Eagle - Asheville",
+      "city": "Asheville",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/midnight-north-tickets/asheville-north-carolina-the-grey-eagle-2026-07-19-8-pm/concert/18277889",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -11991,18 +11714,6 @@
       "price": null
     },
     {
-      "name": "Bug Hunter",
-      "date": "2026-07-22",
-      "time": "20:00",
-      "venue": "The Camel",
-      "city": "Richmond",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/bug-hunter-tickets/richmond-virginia-the-camel-2026-07-22-8-pm/concert/18230219",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Cat Power",
       "date": "2026-07-22",
       "time": "20:00",
@@ -12010,6 +11721,18 @@
       "city": "Richmond",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/cat-power-tickets/richmond-virginia-the-broadberry-richmond-2026-07-22-8-pm/concert/18090758",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Bug Hunter",
+      "date": "2026-07-22",
+      "time": "20:00",
+      "venue": "The Camel",
+      "city": "Richmond",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/bug-hunter-tickets/richmond-virginia-the-camel-2026-07-22-8-pm/concert/18230219",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -12411,6 +12134,18 @@
       "price": null
     },
     {
+      "name": "OFF KAMPUS - Novel Romance Party (18 & Up)",
+      "date": "2026-07-24",
+      "time": "20:30:00",
+      "venue": "Jefferson Theater",
+      "city": "Charlottesville",
+      "state": "VA",
+      "ticketUrl": "https://www.ticketmaster.com/off-kampus-novel-romance-party-18-charlottesville-virginia-07-24-2026/event/010064CBA2C11AAC",
+      "source": "ticketmaster",
+      "genre": "Pop",
+      "price": null
+    },
+    {
       "name": "Lynyrd Skynyrd x Foreigner: Double Trouble Double Vision Tour",
       "date": "2026-07-24",
       "time": "18:30:00",
@@ -12615,18 +12350,6 @@
       "price": null
     },
     {
-      "name": "Christie Lenee",
-      "date": "2026-07-24",
-      "time": "20:00",
-      "venue": "One World Brewing",
-      "city": "Asheville",
-      "state": "NC",
-      "ticketUrl": "https://seatgeek.com/christie-lenee-tickets/asheville-north-carolina-one-world-brewing-2026-07-24-8-pm/concert/18279819",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Sam Sample",
       "date": "2026-07-24",
       "time": "20:00",
@@ -12639,13 +12362,13 @@
       "price": null
     },
     {
-      "name": "Willis (18+)",
+      "name": "Christie Lenee",
       "date": "2026-07-24",
       "time": "20:00",
-      "venue": "Eulogy - Asheville",
+      "venue": "One World Brewing",
       "city": "Asheville",
       "state": "NC",
-      "ticketUrl": "https://seatgeek.com/willis-1-tickets/asheville-north-carolina-eulogy-asheville-2026-07-24-8-pm/concert/18215008",
+      "ticketUrl": "https://seatgeek.com/christie-lenee-tickets/asheville-north-carolina-one-world-brewing-2026-07-24-8-pm/concert/18279819",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -12658,6 +12381,18 @@
       "city": "Asheville",
       "state": "NC",
       "ticketUrl": "https://seatgeek.com/kaleta-and-super-yamba-band-tickets/asheville-north-carolina-the-grey-eagle-2026-07-24-8-pm/concert/18277891",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Willis (18+)",
+      "date": "2026-07-24",
+      "time": "20:00",
+      "venue": "Eulogy - Asheville",
+      "city": "Asheville",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/willis-1-tickets/asheville-north-carolina-eulogy-asheville-2026-07-24-8-pm/concert/18215008",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -12891,18 +12626,6 @@
       "price": null
     },
     {
-      "name": "Congress the Band with Solstice",
-      "date": "2026-07-25",
-      "time": "20:00",
-      "venue": "Elevation 27",
-      "city": "Virginia Beach",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/congress-the-band-tickets/virginia-beach-virginia-elevation-27-2026-07-25-8-pm/concert/18166090",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Dylan Marlowe",
       "date": "2026-07-25",
       "time": "20:00",
@@ -12910,6 +12633,18 @@
       "city": "Portsmouth",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/dylan-marlowe-tickets/portsmouth-virginia-rivers-casino-portsmouth-event-center-2026-07-25-8-pm/concert/18230511",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Congress the Band with Solstice",
+      "date": "2026-07-25",
+      "time": "20:00",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/congress-the-band-tickets/virginia-beach-virginia-elevation-27-2026-07-25-8-pm/concert/18166090",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -13131,6 +12866,18 @@
       "price": null
     },
     {
+      "name": "Norman Brown with Karyn White",
+      "date": "2026-07-26",
+      "time": "17:00",
+      "venue": "Martin Marietta Center for the Performing Arts - Memorial Auditorium",
+      "city": "Raleigh",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/norman-brown-tickets/raleigh-north-carolina-martin-marietta-center-for-the-performing-arts-memorial-auditorium-2026-07-26-5-pm/concert/18290234",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
       "name": "The Dip",
       "date": "2026-07-26",
       "time": "18:30",
@@ -13335,6 +13082,30 @@
       "price": null
     },
     {
+      "name": "Bob Dylan with Lucinda Williams",
+      "date": "2026-07-28",
+      "time": "18:30",
+      "venue": "Red Hat Amphitheater",
+      "city": "Raleigh",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/bob-dylan-tickets/raleigh-north-carolina-red-hat-amphitheater-2026-07-28-6-30-pm/concert/18195867",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Belmont with Major League",
+      "date": "2026-07-28",
+      "time": "19:00",
+      "venue": "Motorco Music Hall",
+      "city": "Durham",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/belmont-tickets/durham-north-carolina-motorco-music-hall-2026-07-28-7-pm/concert/18211826",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
       "name": "Steel Pulse (21+)",
       "date": "2026-07-28",
       "time": "19:30",
@@ -13455,6 +13226,18 @@
       "price": null
     },
     {
+      "name": "Belmont with Major League",
+      "date": "2026-07-29",
+      "time": "19:00",
+      "venue": "Canal Club Richmond",
+      "city": "Richmond",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/belmont-tickets/richmond-virginia-canal-club-richmond-2026-07-29-7-pm/concert/18211827",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
       "name": "The Word Alive",
       "date": "2026-07-29",
       "time": "19:00",
@@ -13479,13 +13262,13 @@
       "price": null
     },
     {
-      "name": "Belmont with Major League",
+      "name": "Toto with Christopher Cross and The Romantics",
       "date": "2026-07-29",
-      "time": "19:00",
-      "venue": "Canal Club Richmond",
-      "city": "Richmond",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/belmont-tickets/richmond-virginia-canal-club-richmond-2026-07-29-7-pm/concert/18211827",
+      "time": "18:45",
+      "venue": "Coastal Credit Union Music Park at Walnut Creek",
+      "city": "Raleigh",
+      "state": "NC",
+      "ticketUrl": "https://seatgeek.com/toto-tickets/raleigh-north-carolina-coastal-credit-union-music-park-at-walnut-creek-2026-07-29-6-45-pm/concert/17947685",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -13599,18 +13382,6 @@
       "price": null
     },
     {
-      "name": "Rumours ATL - A Fleetwood Mac Tribute",
-      "date": "2026-07-30",
-      "time": "19:00",
-      "venue": "Lewis Ginter Botanical Garden",
-      "city": "Richmond",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/rumours-atl-a-fleetwood-mac-tribute-tickets/richmond-virginia-lewis-ginter-botanical-garden-2026-07-30-7-pm/concert/18229974",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Levity",
       "date": "2026-07-30",
       "time": "19:00",
@@ -13618,6 +13389,18 @@
       "city": "Richmond",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/levity-tickets/richmond-virginia-allianz-amphitheater-at-riverfront-2026-07-30-7-pm/concert/18010221",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Rumours ATL - A Fleetwood Mac Tribute",
+      "date": "2026-07-30",
+      "time": "19:00",
+      "venue": "Lewis Ginter Botanical Garden",
+      "city": "Richmond",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/rumours-atl-a-fleetwood-mac-tribute-tickets/richmond-virginia-lewis-ginter-botanical-garden-2026-07-30-7-pm/concert/18229974",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -14127,18 +13910,6 @@
       "price": null
     },
     {
-      "name": "Fink",
-      "date": "2026-08-01",
-      "time": "19:30",
-      "venue": "The Beacon Theatre Hopewell",
-      "city": "Hopewell",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/fink-tickets/hopewell-virginia-the-beacon-theatre-hopewell-2026-08-01-7-30-pm/concert/18230319",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "The Black Keys with Eddie 9V",
       "date": "2026-08-01",
       "time": "19:30",
@@ -14146,6 +13917,18 @@
       "city": "Richmond",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/the-black-keys-tickets/richmond-virginia-allianz-amphitheater-at-riverfront-2026-08-01-7-30-pm/concert/18065558",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Fink",
+      "date": "2026-08-01",
+      "time": "19:30",
+      "venue": "The Beacon Theatre Hopewell",
+      "city": "Hopewell",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/fink-tickets/hopewell-virginia-the-beacon-theatre-hopewell-2026-08-01-7-30-pm/concert/18230319",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -14163,18 +13946,6 @@
       "price": null
     },
     {
-      "name": "Jammy Buffet: Lakes Below The Mountains Tour",
-      "date": "2026-08-01",
-      "time": "20:00",
-      "venue": "Elevation 27",
-      "city": "Virginia Beach",
-      "state": "VA",
-      "ticketUrl": "https://seatgeek.com/jammy-buffet-jimmy-buffett-tribute-tickets/virginia-beach-virginia-elevation-27-2026-08-01-8-pm/concert/18121289",
-      "source": "seatgeek",
-      "genre": "concert",
-      "price": null
-    },
-    {
       "name": "Souls Of Mischief",
       "date": "2026-08-01",
       "time": "20:00",
@@ -14182,6 +13953,18 @@
       "city": "Virginia Beach",
       "state": "VA",
       "ticketUrl": "https://seatgeek.com/souls-of-mischief-tickets/virginia-beach-virginia-the-bunker-brewpub-cadence-hall-2026-08-01-8-pm/concert/18230423",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Jammy Buffet: Lakes Below The Mountains Tour",
+      "date": "2026-08-01",
+      "time": "20:00",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/jammy-buffet-jimmy-buffett-tribute-tickets/virginia-beach-virginia-elevation-27-2026-08-01-8-pm/concert/18121289",
       "source": "seatgeek",
       "genre": "concert",
       "price": null
@@ -14914,7 +14697,7 @@
       "city": "Glen Allen",
       "state": "VA",
       "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A708Je",
-      "source": "ticketmaster",
+      "source": "ticketmaster, seatgeek",
       "genre": "Alternative",
       "price": null
     },
@@ -15120,6 +14903,42 @@
       "ticketUrl": "https://www.ticketmaster.com/bronco-raleigh-north-carolina-08-08-2026/event/2D006255E4787508",
       "source": "ticketmaster",
       "genre": "Latin",
+      "price": null
+    },
+    {
+      "name": "Richmond Jazz and Music Festival with Talib Kweli",
+      "date": "2026-08-08",
+      "time": "12:00",
+      "venue": "Maymont Park",
+      "city": "Richmond",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/talib-kweli-tickets/richmond-virginia-maymont-park-2026-08-08-12-pm/music-festival/18267895",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Frank Foster",
+      "date": "2026-08-08",
+      "time": "19:30",
+      "venue": "The Beacon Theatre Hopewell",
+      "city": "Hopewell",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/frank-foster-tickets/hopewell-virginia-the-beacon-theatre-hopewell-2026-08-08-7-30-pm/concert/18230330",
+      "source": "seatgeek",
+      "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Diggy Graves",
+      "date": "2026-08-08",
+      "time": "19:30",
+      "venue": "The Broadberry - Richmond",
+      "city": "Richmond",
+      "state": "VA",
+      "ticketUrl": "https://seatgeek.com/diggy-graves-tickets/richmond-virginia-the-broadberry-richmond-2026-08-08-7-30-pm/concert/18230318",
+      "source": "seatgeek",
+      "genre": "concert",
       "price": null
     },
     {
@@ -15996,6 +15815,18 @@
       "ticketUrl": "https://www.ticketmaster.com/ella-mai-do-you-still-love-charlotte-north-carolina-08-16-2026/event/2D00646696F6D5F8",
       "source": "ticketmaster",
       "genre": "R&B",
+      "price": null
+    },
+    {
+      "name": "Joyce Manor",
+      "date": "2026-08-17",
+      "time": "20:00:00",
+      "venue": "Jefferson Theater",
+      "city": "Charlottesville",
+      "state": "VA",
+      "ticketUrl": "https://www.ticketmaster.com/joyce-manor-charlottesville-virginia-08-17-2026/event/0100649DE0096C3F",
+      "source": "ticketmaster",
+      "genre": "Rock",
       "price": null
     },
     {
@@ -18288,6 +18119,138 @@
       "ticketUrl": "https://seatgeek.com/justin-moore-tickets/salem-virginia-salem-civic-center-2026-09-10-7-30-pm/concert/18294681",
       "source": "seatgeek",
       "genre": "concert",
+      "price": null
+    },
+    {
+      "name": "Lee Brice",
+      "date": "2026-09-11",
+      "time": "19:00:00",
+      "venue": "The Innsbrook Pavilion",
+      "city": "Glen Allen",
+      "state": "VA",
+      "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70pfI",
+      "source": "ticketmaster",
+      "genre": "Country",
+      "price": null
+    },
+    {
+      "name": "Iron Maiden: Run For Your Lives World Tour 2026",
+      "date": "2026-09-11",
+      "time": "19:15:00",
+      "venue": "Jiffy Lube Live",
+      "city": "Bristow",
+      "state": "VA",
+      "ticketUrl": "https://www.ticketmaster.com/iron-maiden-run-for-your-lives-bristow-virginia-09-11-2026/event/15006355D36A86EC",
+      "source": "ticketmaster",
+      "genre": "Metal",
+      "price": null
+    },
+    {
+      "name": "Herman's Hermits Starring Peter Noone",
+      "date": "2026-09-11",
+      "time": "19:30:00",
+      "venue": "Birchmere",
+      "city": "Alexandria",
+      "state": "VA",
+      "ticketUrl": "https://www.ticketmaster.com/hermans-hermits-starring-peter-noone-alexandria-virginia-09-11-2026/event/15006481E397D0E3",
+      "source": "ticketmaster",
+      "genre": "Rock",
+      "price": null
+    },
+    {
+      "name": "The Broken Hearts - Tom Petty Tribute",
+      "date": "2026-09-11",
+      "time": "17:30:00",
+      "venue": "The Amp Ballantyne",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7x_ZA",
+      "source": "ticketmaster",
+      "genre": "Rock",
+      "price": null
+    },
+    {
+      "name": "Staind: Break The Cycle 25th Anniversary Tour",
+      "date": "2026-09-11",
+      "time": "18:00:00",
+      "venue": "Coastal Credit Union Music Park at Walnut Creek",
+      "city": "Raleigh",
+      "state": "NC",
+      "ticketUrl": "https://www.ticketmaster.com/staind-break-the-cycle-25th-anniversary-raleigh-north-carolina-09-11-2026/event/2D00643CB4423305",
+      "source": "ticketmaster",
+      "genre": "Rock",
+      "price": null
+    },
+    {
+      "name": "Koe Wetzel: The Night Champion World Tour",
+      "date": "2026-09-11",
+      "time": "18:45:00",
+      "venue": "First Horizon Coliseum",
+      "city": "Greensboro",
+      "state": "NC",
+      "ticketUrl": "https://www.ticketmaster.com/koe-wetzel-the-night-champion-world-greensboro-north-carolina-09-11-2026/event/2D006454E2BD7B5B",
+      "source": "ticketmaster",
+      "genre": "Country",
+      "price": null
+    },
+    {
+      "name": "Little Feat: The Last Farewell Tour",
+      "date": "2026-09-11",
+      "time": "19:00:00",
+      "venue": "Harrah's Cherokee Center - Asheville",
+      "city": "Asheville",
+      "state": "NC",
+      "ticketUrl": "https://www.ticketmaster.com/little-feat-the-last-farewell-tour-asheville-north-carolina-09-11-2026/event/2D006479A2D9DE5B",
+      "source": "ticketmaster, seatgeek",
+      "genre": "Rock",
+      "price": null
+    },
+    {
+      "name": "Billy Currington & Kip Moore",
+      "date": "2026-09-11",
+      "time": "19:00:00",
+      "venue": "Skyla Credit Union Amphitheatre",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://www.ticketmaster.com/billy-currington-kip-moore-charlotte-north-carolina-09-11-2026/event/2D00644B19D7E4D6",
+      "source": "ticketmaster",
+      "genre": "Country",
+      "price": null
+    },
+    {
+      "name": "Marcus King Band: Darling Blue PT2 Tour",
+      "date": "2026-09-11",
+      "time": "19:00:00",
+      "venue": "Red Hat Amphitheater",
+      "city": "Raleigh",
+      "state": "NC",
+      "ticketUrl": "https://www.ticketmaster.com/marcus-king-band-darling-blue-pt2-raleigh-north-carolina-09-11-2026/event/2D006463BE15F753",
+      "source": "ticketmaster",
+      "genre": "Rock",
+      "price": null
+    },
+    {
+      "name": "Lyfe Jennings",
+      "date": "2026-09-11",
+      "time": "20:00:00",
+      "venue": "The Underground",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://www.ticketmaster.com/lyfe-jennings-charlotte-north-carolina-09-11-2026/event/2D00648EC433A149",
+      "source": "ticketmaster",
+      "genre": "R&B",
+      "price": null
+    },
+    {
+      "name": "ATLiens (18 and Over)",
+      "date": "2026-09-11",
+      "time": "22:00:00",
+      "venue": "Blackbox Theater - Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pdkp",
+      "source": "ticketmaster",
+      "genre": "Other",
       "price": null
     }
   ]
